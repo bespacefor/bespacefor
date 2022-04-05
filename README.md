@@ -1,4 +1,4 @@
-## Hey! I’m *Sveta Lukyantseva*, Web Developer from Belarus :alien: 
+## Hey! I’m *Sveta Lukyantseva*, Junior Front-End Developer :alien: 
 
 ### :black_circle: I’m interested in **HTML**, **CSS**, **JavaScript**
 ### :white_circle: I’m currently learning **Angular**
